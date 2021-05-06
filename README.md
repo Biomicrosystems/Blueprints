@@ -10,3 +10,5 @@ In this repository you will find the files of each microfluidic system model of 
 - MXCR : Mixer with circular (sinusoidal) path
 - MXTR : Mixer with triangular path
 - AOCG : Alginate and Oil capsules generator
+- TCG1: Trident Capsule Generator v1
+- TCG2: Trident Capsule Generator v2
