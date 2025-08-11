@@ -12,3 +12,4 @@ In this repository you will find the files of each microfluidic system model of 
 - TCG1: Trident Capsule Generator v1
 - TCG2: Trident Capsule Generator v2
 - MMP: Microfluidic Mixer Potenciostat
+- GEM: Gold Electrode Microfluidics
